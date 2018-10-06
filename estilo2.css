@@ -1,0 +1,115 @@
+* {  margin:0px;
+     padding:0px; }
+
+body { background:WHITE; }
+
+.espacio{ width:1000px;
+          height:40px;
+		  background:white;}
+		  
+.barra{background:darksalmon;
+       height:350PX;
+	   width:1340px;
+	   font-size:60px;
+	   text-align:center;
+	   color:black;
+	   margin-top:5px; }
+
+header nav{ background:silver;
+            overflow:hidden;
+			height:50px;
+            width:1340px;}
+
+header nav ul{list-style:none; }
+
+header nav ul li{ float:left; }
+
+header nav ul li a { width:150px;
+                    height:50px;
+					display:block;
+					color:SALMON;
+					text-decoration:none;
+					background:black;
+					margin-right:16px;
+					margin-top:2px; }
+
+header nav ul li a {text-align:middle-center;
+                      font-size:20px;
+					  color:white;}
+
+header nav ul li a:hover{ background:blue; }
+
+header { background:salmon;
+         height:50px;
+		 width:1340px;
+		 margin:auto; }
+
+section { margin:auto;
+          background:SILVER;
+		  height:700px;
+		  width: 1340px; }
+
+.leftcompleto {margin:5px;
+               background:SILVER; 
+			   height:680px;
+			   width:200px;
+			   margin-top:5px;
+			   float:left;
+			   padding:5px; }
+
+.left { height:338px;
+        width:200px; 
+		background:silver;
+		float:left;
+		margin-top:5px; } 
+
+.leftabajo {height:338px; 
+            width:200px;
+			background:silver;
+			float:left;
+			margin-top:5px;}
+
+article { background:silver;
+          height:0px;
+		  width:880px; 
+		  float:left;
+		  margin:5px; 
+		  margin-top:5px; 
+		  padding:5px; } 
+
+.arriba { background:Silver;
+          height:650px; 
+		  width:880px;
+          margin:5px; 
+		  margin-top:5px;
+          padding:5px; 
+		  float:left; 
+		  text-align:justify;
+          font-family:consola, tahoma, helvetica;
+          text-transform:capitalize; }
+
+.rightcompleto {margin:5px;
+                background:SILVER;
+				height:650px; 
+				width:200px;
+				margin-top:5px; 
+				float:left;
+				padding:5px;}
+	
+.right{ height:338px; 
+        width:200px; 
+		background:SILVER; 
+		float:left;
+		margin-top:5px; }
+
+		
+.rightabajo { height:338px;
+              width:200px;
+			  background:SILVER;
+			  float:left;
+			  margin-top:5px;}
+p { color: black;
+    text-align:justify;
+	font-size:22px;
+	}
+
